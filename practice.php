@@ -77,7 +77,40 @@ h1{
     <li>Milk</li>
 </ol>
 
+<center>
 
+<h1>This is a form.. blood one</h1>
+
+
+Enter Name:
+<input type="text"><br>
+Enter Age:
+<input type="text"><br>
+Enter Blood Group(Type):
+<select>
+    <option>A</option>
+    <option>B</option>
+    <option>O</option>
+    <option>AB</option>
+</select>
+<select>
+    <option>+</option>
+    <option>-</option>
+</select>
+<br>
+Enter if you have any deseases:
+    <input type="checkbox"> HIV
+    <input type="checkbox"> HPV
+    <input type="checkbox"> Spooky Vaginosis
+    <input type="checkbox"> Herpes
+    <input type="checkbox"> Optimus Prime
+    <br>
+Enter Checkbox Material:
+    <input type="radio"; name="Gender";>A
+    <input type="radio"; name="Gender";>B
+    <input type="radio"; name="Gender";>C
+
+</center>
 
 
 </body>
