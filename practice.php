@@ -5,29 +5,17 @@
 </head>
 <body>
 
-<h1 style="background-color: pink; height: 70px; width:50%"> Hello </h1>
+<form>
+Name:
+<input type="text" placeholder= "Input Name"> <br>
+ID:
+<input type="text" placeholder= "Input ID"> <br>
 
-<div>
-    Hello <br>
-    im mahi <br>
-    this is a centered form i hope <br>
-    in a div negro <br>
-    <input type="text"> <br>
-    <input type="password"> <br>
+<input type="reset">
+<input type="submit">
 
-</div>
-<a href="https://www.youtube.com/watch?v=DT_aD0lGDZE">This is yt </a>
 
-<style>
-
-div{
-    width: 300px;
-    margin: auto;
-    background-color: pink;
-    
-}
-
-</style>
+</form>
 
 
 </body>
